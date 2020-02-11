@@ -1,2 +1,0 @@
-# CSGOstats
-Stats For CSGO
